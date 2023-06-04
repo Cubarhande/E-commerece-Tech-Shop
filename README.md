@@ -3,7 +3,6 @@
 Tech-Shop
 The website techshop.png has been converted to a png format.
 
-
 The project involves designing a responsive tech shop website called "TECH SHOP" The website will be built using HTML, CSS, JavaScript, and Bootstrap to create a visually appealing and user-friendly online shopping experience .
 
 Responsive Design: The website will be designed to adapt to different screen sizes and devices, ensuring a seamless browsing experience for users on desktops, laptops, tablets, and mobile devices.
